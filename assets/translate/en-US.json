@@ -1,0 +1,20 @@
+{
+    "title": "Make Money",
+    "loginError": "Error: Failed to log in. Please check your credentials and try again.",
+    "networkError": "Error: Network error occurred. Please try again later.",
+    "genericError": "Error: An unexpected error occurred. Please try again later.",
+    "registrationSuccess": "Success: Registration successful!",
+    "registrationError": "Error: Registration error. Please check your credentials and try again.",
+    "updateSuccess": "Success: Update successful!",
+    "deleteSuccess": "Success: Delete successful!",
+    "login": "Login",
+    "notareregis?": "¿Not registered? Register",
+    "pass": "Password",
+    "username": "Username",
+    "already": "Already registered? Log in",
+    "home": "Home",
+    "search": "Search",
+    "profile": "Profile",
+    "logout": "Logout",
+    "add": "Add"
+}

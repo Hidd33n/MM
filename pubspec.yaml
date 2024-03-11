@@ -1,0 +1,25 @@
+name: mm
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  firebase_core: ^2.25.5
+  cloud_firestore:
+  provider:
+  firebase_auth:
+  google_fonts: ^6.2.1
+  top_snackbar_flutter:
+  custom_navigation_bar:
+  easy_localization: ^3.0.5
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/translate/

@@ -1,0 +1,20 @@
+{
+    "title": "Gana Dinero",
+    "loginError": "Error: Fallo al iniciar sesión. Por favor, verifica tus credenciales e inténtalo de nuevo.",
+    "networkError": "Error: Se ha producido un error de red. Por favor, inténtalo de nuevo más tarde.",
+    "genericError": "Error: Se ha producido un error inesperado. Por favor, inténtalo de nuevo más tarde.",
+    "registrationSuccess": "Éxito: ¡Registro exitoso!",
+    "registrationError": "Error: Fallo al registrarse. Por favor, verifica tus credenciales e inténtalo de nuevo.",
+    "updateSuccess": "Éxito: ¡Actualización exitosa!",
+    "deleteSuccess": "Éxito: ¡Eliminación exitosa!",
+    "login": "Entrar",
+    "notareregis?": "¿No estas registrado? Registrarse",
+    "pass": "Contraseña",
+    "username": "Usuario",
+    "already": "¿Ya registrado? Inicia sesión",
+    "home": "Inicio",
+    "search": "Buscar",
+    "profile": "Perfil",
+    "logout": "Cerrar Sesión",
+    "add": "Nueva cuenta"
+}
